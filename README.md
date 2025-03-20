@@ -1,3 +1,4 @@
 Click here to view
 
-http://127.0.0.1:3000/index.html
+https://ama1234.netlify.app/
+
